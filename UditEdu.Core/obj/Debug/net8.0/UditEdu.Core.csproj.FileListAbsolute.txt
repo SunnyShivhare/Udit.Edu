@@ -1,0 +1,12 @@
+D:\Test\UditEdu.API\UditEdu.Core\bin\Debug\net8.0\UditEdu.Core.deps.json
+D:\Test\UditEdu.API\UditEdu.Core\bin\Debug\net8.0\UditEdu.Core.dll
+D:\Test\UditEdu.API\UditEdu.Core\bin\Debug\net8.0\UditEdu.Core.pdb
+D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\UditEdu.Core.csproj.AssemblyReference.cache
+D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\UditEdu.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\UditEdu.Core.AssemblyInfoInputs.cache
+D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\UditEdu.Core.AssemblyInfo.cs
+D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\UditEdu.Core.csproj.CoreCompileInputs.cache
+D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\UditEdu.Core.dll
+D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\refint\UditEdu.Core.dll
+D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\UditEdu.Core.pdb
+D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\ref\UditEdu.Core.dll

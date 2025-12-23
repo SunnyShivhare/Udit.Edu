@@ -1,0 +1,15 @@
+D:\Test\UditEdu.API\UditEdu.Application\bin\Debug\net8.0\UditEdu.Application.deps.json
+D:\Test\UditEdu.API\UditEdu.Application\bin\Debug\net8.0\UditEdu.Application.dll
+D:\Test\UditEdu.API\UditEdu.Application\bin\Debug\net8.0\UditEdu.Application.pdb
+D:\Test\UditEdu.API\UditEdu.Application\bin\Debug\net8.0\UditEdu.Core.dll
+D:\Test\UditEdu.API\UditEdu.Application\bin\Debug\net8.0\UditEdu.Core.pdb
+D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\UditEdu.Application.csproj.AssemblyReference.cache
+D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\UditEdu.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\UditEdu.Application.AssemblyInfoInputs.cache
+D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\UditEdu.Application.AssemblyInfo.cs
+D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\UditEdu.Application.csproj.CoreCompileInputs.cache
+D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\UditEdu..08E1170F.Up2Date
+D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\UditEdu.Application.dll
+D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\refint\UditEdu.Application.dll
+D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\UditEdu.Application.pdb
+D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\ref\UditEdu.Application.dll
