@@ -24,6 +24,7 @@ D:\Test\UditEdu.API\UditEdu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.R
 D:\Test\UditEdu.API\UditEdu.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\Test\UditEdu.API\UditEdu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Test\UditEdu.API\UditEdu.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Test\UditEdu.API\UditEdu.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\Test\UditEdu.API\UditEdu.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 D:\Test\UditEdu.API\UditEdu.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\Test\UditEdu.API\UditEdu.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -131,6 +132,7 @@ D:\Test\UditEdu.API\UditEdu.API\obj\Debug\net8.0\UditEdu.API.AssemblyInfo.cs
 D:\Test\UditEdu.API\UditEdu.API\obj\Debug\net8.0\UditEdu.API.csproj.CoreCompileInputs.cache
 D:\Test\UditEdu.API\UditEdu.API\obj\Debug\net8.0\UditEdu.API.MvcApplicationPartsAssemblyInfo.cs
 D:\Test\UditEdu.API\UditEdu.API\obj\Debug\net8.0\UditEdu.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Test\UditEdu.API\UditEdu.API\obj\Debug\net8.0\UditEdu.API.sourcelink.json
 D:\Test\UditEdu.API\UditEdu.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\Test\UditEdu.API\UditEdu.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 D:\Test\UditEdu.API\UditEdu.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

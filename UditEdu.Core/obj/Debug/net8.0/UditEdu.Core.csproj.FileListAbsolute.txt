@@ -6,6 +6,7 @@ D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\UditEdu.Core.GeneratedMSBuildE
 D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\UditEdu.Core.AssemblyInfoInputs.cache
 D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\UditEdu.Core.AssemblyInfo.cs
 D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\UditEdu.Core.csproj.CoreCompileInputs.cache
+D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\UditEdu.Core.sourcelink.json
 D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\UditEdu.Core.dll
 D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\refint\UditEdu.Core.dll
 D:\Test\UditEdu.API\UditEdu.Core\obj\Debug\net8.0\UditEdu.Core.pdb

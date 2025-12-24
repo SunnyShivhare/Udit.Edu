@@ -1,6 +1,28 @@
-@UditEdu.API_HostAddress = http://localhost:5206
+@UditEdu.API_HostAddress = https://localhost:7209
 
 GET {{UditEdu.API_HostAddress}}/weatherforecast/
 Accept: application/json
+
+###
+
+POST {{UditEdu.API_HostAddress}}/api/employee
+Content-Type: application/json
+
+{
+  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "name": "test",
+  "email": "testhttp@uditedu.com",
+  "phone": "9999999999"
+}
+
+###in
+
+GET https://localhost:7209/api/employee/employees
+
+
+###
+
+
+GET {{UditEdu.API_HostAddress}}/api/externalvendor
 
 ###

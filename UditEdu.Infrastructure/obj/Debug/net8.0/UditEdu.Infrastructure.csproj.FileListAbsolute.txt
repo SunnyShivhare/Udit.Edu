@@ -11,6 +11,7 @@ D:\Test\UditEdu.API\UditEdu.Infrastructure\obj\Debug\net8.0\UditEdu.Infrastructu
 D:\Test\UditEdu.API\UditEdu.Infrastructure\obj\Debug\net8.0\UditEdu.Infrastructure.AssemblyInfoInputs.cache
 D:\Test\UditEdu.API\UditEdu.Infrastructure\obj\Debug\net8.0\UditEdu.Infrastructure.AssemblyInfo.cs
 D:\Test\UditEdu.API\UditEdu.Infrastructure\obj\Debug\net8.0\UditEdu.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Test\UditEdu.API\UditEdu.Infrastructure\obj\Debug\net8.0\UditEdu.Infrastructure.sourcelink.json
 D:\Test\UditEdu.API\UditEdu.Infrastructure\obj\Debug\net8.0\UditEdu..517F59B7.Up2Date
 D:\Test\UditEdu.API\UditEdu.Infrastructure\obj\Debug\net8.0\UditEdu.Infrastructure.dll
 D:\Test\UditEdu.API\UditEdu.Infrastructure\obj\Debug\net8.0\refint\UditEdu.Infrastructure.dll

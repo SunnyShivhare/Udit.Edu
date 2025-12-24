@@ -6,9 +6,6 @@ using System.Threading.Tasks;
 
 namespace UditEdu.Core.Models
 {
-     
-     
-
         public class NationalizeData
         {
             public int count { get; set; }

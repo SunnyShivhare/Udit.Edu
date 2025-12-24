@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UditEdu.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fc4574f8167b55f3ba95d28bff3aae9da41c14a")]
 [assembly: System.Reflection.AssemblyProductAttribute("UditEdu.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UditEdu.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test\\UditEdu.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{473FA6D2-7FC0-4A96-9124-BB1F60F2725B}|UditEdu.Infrastructure\\UditEdu.Infrastructure.csproj|d:\\test\\uditedu.api\\uditedu.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473FA6D2-7FC0-4A96-9124-BB1F60F2725B}|UditEdu.Infrastructure\\UditEdu.Infrastructure.csproj|solutionrelative:uditedu.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD143BC-CF04-4E23-9994-F0F6AA474F57}|UditEdu.API\\UditEdu.API.csproj|d:\\test\\uditedu.api\\uditedu.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD143BC-CF04-4E23-9994-F0F6AA474F57}|UditEdu.API\\UditEdu.API.csproj|solutionrelative:uditedu.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD143BC-CF04-4E23-9994-F0F6AA474F57}|UditEdu.API\\UditEdu.API.csproj|d:\\test\\uditedu.api\\uditedu.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD143BC-CF04-4E23-9994-F0F6AA474F57}|UditEdu.API\\UditEdu.API.csproj|solutionrelative:uditedu.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD143BC-CF04-4E23-9994-F0F6AA474F57}|UditEdu.API\\UditEdu.API.csproj|d:\\test\\uditedu.api\\uditedu.api\\uditedu.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FD143BC-CF04-4E23-9994-F0F6AA474F57}|UditEdu.API\\UditEdu.API.csproj|solutionrelative:uditedu.api\\uditedu.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF9C85E-9DDA-4A67-895C-59CACA9B4A44}|UditEdu.Core\\UditEdu.Core.csproj|d:\\test\\uditedu.api\\uditedu.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF9C85E-9DDA-4A67-895C-59CACA9B4A44}|UditEdu.Core\\UditEdu.Core.csproj|solutionrelative:uditedu.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473FA6D2-7FC0-4A96-9124-BB1F60F2725B}|UditEdu.Infrastructure\\UditEdu.Infrastructure.csproj|d:\\test\\uditedu.api\\uditedu.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473FA6D2-7FC0-4A96-9124-BB1F60F2725B}|UditEdu.Infrastructure\\UditEdu.Infrastructure.csproj|solutionrelative:uditedu.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473FA6D2-7FC0-4A96-9124-BB1F60F2725B}|UditEdu.Infrastructure\\UditEdu.Infrastructure.csproj|d:\\test\\uditedu.api\\uditedu.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473FA6D2-7FC0-4A96-9124-BB1F60F2725B}|UditEdu.Infrastructure\\UditEdu.Infrastructure.csproj|solutionrelative:uditedu.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473FA6D2-7FC0-4A96-9124-BB1F60F2725B}|UditEdu.Infrastructure\\UditEdu.Infrastructure.csproj|d:\\test\\uditedu.api\\uditedu.infrastructure\\uditedu.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{473FA6D2-7FC0-4A96-9124-BB1F60F2725B}|UditEdu.Infrastructure\\UditEdu.Infrastructure.csproj|solutionrelative:uditedu.infrastructure\\uditedu.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Test\\UditEdu.API\\UditEdu.Infrastructure\\Migrations\\20251221072822_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UditEdu.Infrastructure\\Migrations\\20251221072822_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF9C85E-9DDA-4A67-895C-59CACA9B4A44}|UditEdu.Core\\UditEdu.Core.csproj|d:\\test\\uditedu.api\\uditedu.core\\entities\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF9C85E-9DDA-4A67-895C-59CACA9B4A44}|UditEdu.Core\\UditEdu.Core.csproj|solutionrelative:uditedu.core\\entities\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD143BC-CF04-4E23-9994-F0F6AA474F57}|UditEdu.API\\UditEdu.API.csproj|d:\\test\\uditedu.api\\uditedu.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD143BC-CF04-4E23-9994-F0F6AA474F57}|UditEdu.API\\UditEdu.API.csproj|solutionrelative:uditedu.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF9C85E-9DDA-4A67-895C-59CACA9B4A44}|UditEdu.Core\\UditEdu.Core.csproj|d:\\test\\uditedu.api\\uditedu.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF9C85E-9DDA-4A67-895C-59CACA9B4A44}|UditEdu.Core\\UditEdu.Core.csproj|solutionrelative:uditedu.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Test\\UditEdu.API\\UditEdu.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "UditEdu.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Test\\UditEdu.API\\UditEdu.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "UditEdu.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAhwAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T05:40:46.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UditEdu.API",
+              "DocumentMoniker": "D:\\Test\\UditEdu.API\\UditEdu.API\\UditEdu.API.csproj",
+              "RelativeDocumentMoniker": "UditEdu.API\\UditEdu.API.csproj",
+              "ToolTip": "D:\\Test\\UditEdu.API\\UditEdu.API\\UditEdu.API.csproj",
+              "RelativeToolTip": "UditEdu.API\\UditEdu.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-21T03:40:18.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Test\\UditEdu.API\\UditEdu.API\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "UditEdu.API\\DependencyInjection.cs",
+              "ToolTip": "D:\\Test\\UditEdu.API\\UditEdu.API\\DependencyInjection.cs",
+              "RelativeToolTip": "UditEdu.API\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T04:15:35.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Test\\UditEdu.API\\UditEdu.Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "UditEdu.Core\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Test\\UditEdu.API\\UditEdu.Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "UditEdu.Core\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T07:56:46.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Test\\UditEdu.API\\UditEdu.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "UditEdu.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Test\\UditEdu.API\\UditEdu.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "UditEdu.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAADIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T07:50:03.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\Test\\UditEdu.API\\UditEdu.Infrastructure\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "UditEdu.Infrastructure\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\Test\\UditEdu.API\\UditEdu.Infrastructure\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "UditEdu.Infrastructure\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T06:47:16.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Test\\UditEdu.API\\UditEdu.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "UditEdu.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Test\\UditEdu.API\\UditEdu.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "UditEdu.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T02:50:45.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251221072822_dbinit.cs",
+              "DocumentMoniker": "D:\\Test\\UditEdu.API\\UditEdu.Infrastructure\\Migrations\\20251221072822_dbinit.cs",
+              "RelativeDocumentMoniker": "UditEdu.Infrastructure\\Migrations\\20251221072822_dbinit.cs",
+              "ToolTip": "D:\\Test\\UditEdu.API\\UditEdu.Infrastructure\\Migrations\\20251221072822_dbinit.cs",
+              "RelativeToolTip": "UditEdu.Infrastructure\\Migrations\\20251221072822_dbinit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T07:28:23.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeEntity.cs",
+              "DocumentMoniker": "D:\\Test\\UditEdu.API\\UditEdu.Core\\Entities\\EmployeeEntity.cs",
+              "RelativeDocumentMoniker": "UditEdu.Core\\Entities\\EmployeeEntity.cs",
+              "ToolTip": "D:\\Test\\UditEdu.API\\UditEdu.Core\\Entities\\EmployeeEntity.cs",
+              "RelativeToolTip": "UditEdu.Core\\Entities\\EmployeeEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T05:56:35.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UditEdu.Infrastructure",
+              "DocumentMoniker": "D:\\Test\\UditEdu.API\\UditEdu.Infrastructure\\UditEdu.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "UditEdu.Infrastructure\\UditEdu.Infrastructure.csproj",
+              "ToolTip": "D:\\Test\\UditEdu.API\\UditEdu.Infrastructure\\UditEdu.Infrastructure.csproj",
+              "RelativeToolTip": "UditEdu.Infrastructure\\UditEdu.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-21T03:34:58.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Test\\UditEdu.API\\UditEdu.API\\Program.cs",
+              "RelativeDocumentMoniker": "UditEdu.API\\Program.cs",
+              "ToolTip": "D:\\Test\\UditEdu.API\\UditEdu.API\\Program.cs",
+              "RelativeToolTip": "UditEdu.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T05:00:42.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Test\\UditEdu.API\\UditEdu.Core\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "UditEdu.Core\\DependencyInjection.cs",
+              "ToolTip": "D:\\Test\\UditEdu.API\\UditEdu.Core\\DependencyInjection.cs",
+              "RelativeToolTip": "UditEdu.Core\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T02:50:30.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

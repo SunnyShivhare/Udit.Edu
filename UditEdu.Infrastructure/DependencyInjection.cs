@@ -24,8 +24,17 @@ namespace UditEdu.Infrastructure
             });
             services.AddScoped<IEmployeeRepository, EmployeeRepository>();
             services.AddScoped<IExternalVendorRepository, ExternalVendorRepository>();
-            services.AddHttpClient<JokeHttpClientService>();
-            services.AddHttpClient<NationalizeHttpClientService>();
+            services.AddHttpClient<JokeHttpClientService>(
+                options =>
+                {
+                    options.BaseAddress = new Uri("https://official-joke-api.appspot.com/");
+                }
+                );
+            services.AddHttpClient<NationalizeHttpClientService>(
+                options=>
+                {
+                    options.BaseAddress = new Uri("https://api.nationalize.io/");
+                });
             return services;
         }
     }

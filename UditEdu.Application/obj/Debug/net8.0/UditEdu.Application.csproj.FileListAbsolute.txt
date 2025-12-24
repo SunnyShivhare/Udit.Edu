@@ -8,6 +8,7 @@ D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\UditEdu.Application.Gen
 D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\UditEdu.Application.AssemblyInfoInputs.cache
 D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\UditEdu.Application.AssemblyInfo.cs
 D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\UditEdu.Application.csproj.CoreCompileInputs.cache
+D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\UditEdu.Application.sourcelink.json
 D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\UditEdu..08E1170F.Up2Date
 D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\UditEdu.Application.dll
 D:\Test\UditEdu.API\UditEdu.Application\obj\Debug\net8.0\refint\UditEdu.Application.dll
